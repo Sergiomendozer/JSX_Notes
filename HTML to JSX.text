@@ -1,0 +1,16 @@
+HTML to JSX
+
+class to className
+onclick to onClick
+onchange to onChange
+
+colspan to colSpan
+rowspan to rowSpan
+srcset to srcSet
+
+#JSK must alway have closed tags!
+<br> to <br/>
+
+<hr> = horitontal line
+<hr> to <hr />
+

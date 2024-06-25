@@ -1,0 +1,11 @@
+createElement() or JSX
+
+Curly braces {}
+
+const planet = ‘world’
+<div>Hello {planet}</div>
+
+const name = 'John';
+const element = <h1>Hello, {name}</h1>;
+
+

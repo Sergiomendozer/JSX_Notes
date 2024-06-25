@@ -1,0 +1,2 @@
+const example = "First name"
+const ele = <div>This component uses {example} </div>

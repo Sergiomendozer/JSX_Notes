@@ -1,0 +1,15 @@
+const JSX = (
+    <div>
+    <h1>JSX Practice</hl1>
+    <p>
+    Here is a checklist of JSX things we will learn.
+    </p>
+    <ul>
+    <li>Scope</1li>
+    <li>Reusability</li>
+    <li>Design</1li>
+    </ul>
+    </div>
+);
+
+
